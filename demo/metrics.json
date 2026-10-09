@@ -1,0 +1,12 @@
+{
+  "total": 219,
+  "unique": 192,
+  "duplicate_keys": 23,
+  "conflicting_keys": 9,
+  "missing_rows": 8,
+  "sources": {
+    "System B": 70,
+    "System C": 79,
+    "System A": 70
+  }
+}
